@@ -1,4 +1,4 @@
-{
+
   "classes": [
      {
       "type_name": "相声小品",
