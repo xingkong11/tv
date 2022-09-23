@@ -2,9 +2,10 @@
   "classes": [
    
     {
-      "type_name": "戏曲",
-      "type_id": "戏曲"
+      "type_name": "相声小品",
+      "type_id": "相声小品"
     },
+
     {
       "type_name": "演唱会",
       "type_id": "演唱会"
@@ -17,11 +18,12 @@
       "type_name": "假窗白噪音",
       "type_id": "窗白噪音"
     },
+    
     {
-      "type_name": "相声小品",
-      "type_id": "相声小品"
+      "type_name": "戏曲",
+      "type_id": "戏曲"
     }
-   ],
+ ],
   "filter": {
    
     "相声小品": [
