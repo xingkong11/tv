@@ -27,9 +27,9 @@
 {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/qunyou/API.php?appkey=Qqun493192284zhuanyongqingwushangchuanwangluochuanbo&url="},
 {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}, 
-{"name": "云析","type": 0,"url": "http://chaloli.cn/home/api?type=ys&uid=9807827&key=fgorDJPRSUWY124689&url="},
+{"name": "云析","type": 0,"url": "http://chaloli.cn/home/api?type=ys&uid=9807827&key=fgorDJPRSUWY124689&fs=hz&url="},
 {"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
-{"name":"线路","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
+{"name":"znjson","type":0,"url":"https://svip.znjson.com/api/?key=fPrn3bklweZ5duoQYU&url="}
 ],
 	
 "flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
