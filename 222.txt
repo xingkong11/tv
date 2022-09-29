@@ -32,7 +32,7 @@
 {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"佳宸","type":0,"url":"http://1link.atwebpages.com/?url="},
-{"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
+{"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="}
 //{"name":"11","type":1,"url":"https://jx.255tv.cn/api/?key=P3REZPz7pKrziUMWKJ&url="}
 ],
 	
