@@ -27,7 +27,7 @@
 {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/qunyou/API.php?appkey=Qqun493192284zhuanyongqingwushangchuanwangluochuanbo&url="},
 {"name": "GGTV搜集","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="}, 
-{"name": "云析","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=9807827&key=fgorDJPRSUWY124689&fs=hz&url="},
+{"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="},
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
