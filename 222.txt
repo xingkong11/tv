@@ -1,5 +1,5 @@
 {
-   "spider": "https://xingkong11.github.io/jar/1008.jar;md5;7dce83663b899ef6df33fef9bbe241f8", 
+   "spider": "https://xingkong11.github.io/jar/1017.jar;md5;863fcb759a371a9284fd8fd927e3c88b", 
    "lives": [{"group": "redirect","channels": [{
 "name": "live",
 "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
