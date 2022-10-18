@@ -166,7 +166,7 @@
 {"name":"佳宸","type":0,"url":"http://1link.atwebpages.com/?url="},
 {"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
 {"name":"爱酷","type":0,"url":"http://www.ikukk.com/?ac=1&url="}
-],,
+],
   "flags": [
     "youku",
     "qq",
