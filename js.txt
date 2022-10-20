@@ -5,7 +5,7 @@
             "key" : "drpy_js_360影视",
             "name" : "360影视[DRPY]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
+            "api" : "https://xingkong11.github.io/js/drpy.min.js",
             "ext" : "https://xingkong11.github.io/js/360影视.js"
         },
 
@@ -13,14 +13,14 @@
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
+            "api" : "https://xingkong11.github.io/js/drpy.min.js",
             "ext" : "https://xingkong11.github.io/js/酷云77.js"
         },
             {
             "key" : "drpy_js_厂长资源",
             "name" : "厂长资源[DRPY]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
+            "api" : "https://xingkong11.github.io/js/drpy.min.js",
             "ext" : "https://xingkong11.github.io/js/厂长资源.js"
         },
 
@@ -28,14 +28,14 @@
             "key" : "drpy_js_星辰",
             "name" : "星辰[DRPY]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
+            "api" : "https://xingkong11.github.io/js/drpy.min.js",
             "ext" : "https://xingkong11.github.io/js/星辰.js"
         },            
             {
             "key" : "drpy_js_555影视",
             "name" : "555影视[DRPY]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
+            "api" : "https://xingkong11.github.io/js/drpy.min.js",
             "ext" : "https://xingkong11.github.io/js/555影视.js"
         },
             {
