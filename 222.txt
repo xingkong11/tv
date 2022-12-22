@@ -1,5 +1,5 @@
 {
-   "spider": "https://xingkong11.github.io/jar/1123.jar;md5;e3f1a10099611223738e86beb3e859c1", 
+   "spider": "https://xingkong11.github.io/jar/m1222.jar;md5;f47cb3ea66749be3afff738746182cf8", 
    "lives": [{"group": "redirect","channels": [{
 "name": "live",
 "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
@@ -9,9 +9,8 @@
 {"key":"csp_77","name":"七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_555","name":"555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://xingkong11.github.io/tv/1.txt"},
-{"key":"push_agent","name":"📀推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"}
 ],
 "parses": [
 {"name": "解析聚合","type": 3,"url": "Demo"},
