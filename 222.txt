@@ -26,6 +26,7 @@
 {"name":"无名","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"呦呦","type":1,"url":"https://jxm.qcheng.cc/?url="},
 {"name":"舒渡","type":0,"url":"http://vip.lovctv.com/VIP/?url="},
+{"name": "樱花","type": 1,"url": "http://kimifanke.qicp.vip:5023/home/api?type=ys&uid=1003611&key=acghlryCFIJLPSTV07&url="},
 {"name": "OKjx综合","type": 1,"url": "https://okjx.cc/?url="},
 {"name":"爱酷","type":1,"url":"http://www.ikukk.com/?ac=1&url="}
 ],
