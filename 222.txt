@@ -1,5 +1,5 @@
 {
-   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xingkong11/jar/main/01.jar;md5;f49414f3bf2cb8bf75e517f0b2677c3f", 
+   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xingkong11/jar/main/01.jar;md5;4ba0df8cb001514817da4e4337df96fc", 
    "lives": [{"group": "redirect","channels": [{
 "name": "live",
 "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]
