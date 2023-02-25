@@ -95,6 +95,80 @@
       "filterable": 0
     },
 
+{
+      "key": "wmcj8",
+      "name": "水果|香蕉",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ggmmzy",
+      "name": "水果|菠萝",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "mgzyz1",
+      "name": "水果|芒果",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ms4nii",
+      "name": "水果|凤梨",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "wmcj8",
+      "name": "水果|香蕉",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ggmmzy",
+      "name": "水果|菠萝",
+      "type": 0,
+      "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "mgzyz1",
+      "name": "水果|芒果",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ms4nii",
+      "name": "水果|凤梨",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "NoSearch_csp_BBB",
       "name": "套餐",
