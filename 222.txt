@@ -21,7 +21,7 @@
 {"name": "Json并发","type": 2,"url": "Parallel"}, 
 {"name": "Json轮询","type": 2,"url": "Sequence"},
 {"name": "GGTV自用","type": 0,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
-{"name": "星辰","type": 0, "url": "https://json.xn--9kq078cdn3a.cc/api/?key=11bd9d445313ce45aeeabe9050ea9918&url="},
+{"name": "星辰","type": 0,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=11bd9d445313ce45aeeabe9050ea9918&url="},
 {"name": "云you","type": 0,"url": "https://chaloli.cn/api/?key=fee5845e4b9924e72cf2158cc20b2dfa&url="},
 {"name":"无名","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"呦呦","type":0,"url":"https://jxm.qcheng.cc/?url="},
