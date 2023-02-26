@@ -16,10 +16,15 @@
 {"key":"csp_BBB","name":"套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://xingkong11.github.io/tv/1.txt"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
 ],
-"parses": [
-{"name": "解析聚合","type": 3,"url": "Demo"},
-{"name": "Json并发","type": 2,"url": "Parallel"}, 
-{"name": "Json轮询","type": 2,"url": "Sequence"},
+"parses": [{
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
+	}, {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
+	},
 {"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url="},
 {"name": "星辰","type": 1,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=11bd9d445313ce45aeeabe9050ea9918&url="},
 {"name": "云you","type": 1,"url": "https://chaloli.cn/api/?key=fee5845e4b9924e72cf2158cc20b2dfa&url="},
