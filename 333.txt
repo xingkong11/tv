@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xingkong11/jar/main/01.jar;md5;f49414f3bf2cb8bf75e517f0b2677c3f",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xingkong11/jar/main/01.jar;md5;5f336f6de028983fef9f3c8ea638dfb0",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
